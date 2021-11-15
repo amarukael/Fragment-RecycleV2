@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragment&amp;RecycleV2</string>
+    <string-array name="namaherodota">
+        <item>Axe</item>
+        <item>Invoker</item>
+        <item>Huskar</item>
+        <item>Tusk</item>
+        <item>Zeus</item>
+        <item>Bristleback</item>
+        <item>Doom</item>
+    </string-array>
+    <string-array name="deskripsiherodota">
+        <item>Axe adalah hero strength</item>
+        <item>Invoker adalah hero intellegent</item>
+        <item>Huskar adalah hero strength</item>
+        <item>Tusk adalah hero strength</item>
+        <item>Zeus adalah hero intellegent</item>
+        <item>Bristleback adalah hero strength</item>
+        <item>Doom adalah hero strength</item>
+    </string-array>
+</resources>
